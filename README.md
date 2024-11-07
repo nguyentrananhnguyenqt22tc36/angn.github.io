@@ -50,8 +50,6 @@
 		<br> - Mùa hoa nở thường là vào tháng 4 đến tháng 5.</p>
 </div>
 </div>
-
-	
 		<footer>
 		<p>Copyright Nguyễn Trần Anh Nguyên</p>
 		<p>Lớp QT22TC3.6</p>
